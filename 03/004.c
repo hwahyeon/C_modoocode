@@ -9,3 +9,8 @@ int main() {
   printf("b : %6.3f \n", b);
   return 0;
 }
+
+// Result
+// a : 3.14 
+// c :   123 
+// b :  3.142 
