@@ -1,3 +1,4 @@
+/* 변수 알아보기 1*/
 #include <stdio.h>
 int main() {
   int a;
